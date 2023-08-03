@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root  {
+
+  /* color */
+  --main-text-color: #FF3030;
+  --sub-text-color: #616161;
+
+}
+
+@font-face {
+  font-family: PoiretOne;
+  src: url(./Stuff/Fonts/PoiretOne-Regular.ttf);
+}

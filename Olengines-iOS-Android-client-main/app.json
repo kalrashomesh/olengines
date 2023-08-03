@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Olengines",
+    "slug": "Olengines",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./Stuff/assets/Olengines.png",
+    "splash": {
+      "image": "./Stuff/assets/Olengines.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./Stuff/assets/Olengines.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./Stuff/assets/Olengines.png"
+    }
+  }
+}
