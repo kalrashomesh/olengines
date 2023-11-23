@@ -45,7 +45,7 @@
     "redux": "^4.1.2",
     "redux-persist": "^6.0.0",
     "styled-components": "^5.3.5",
-    "webpack-dev-server": "~3.11.0",
+    "webpack-dev-server": "~4.15.1",
     "xcode": "^3.0.1",
     "yup": "^0.32.11"
   },
